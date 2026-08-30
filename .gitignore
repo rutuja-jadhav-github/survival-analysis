@@ -1,2 +1,5 @@
 surv_en/
 excelbenchmarks.xlsx
+src/__pycache__
+src/_site
+src/.jekyll-cache
