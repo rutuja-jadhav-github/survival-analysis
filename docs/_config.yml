@@ -1,0 +1,27 @@
+title: "Survival Analysis"
+description: "Augmenting Kaplan–Meier Survival Analysis with Ensemble Methods for Customer Churn Prediction."
+
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://rutuja-jadhav-github.github.io"
+baseurl: "" 
+
+author: "Rutuja Jadhav"
+
+# Just the Docs settings
+color_scheme: light
+
+nav_enabled: true
+heading_anchors: true
+search_enabled: true
+
+# Sidebar navigation order
+nav_sort: order
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+#latex
+kramdown:
+  math_engine: mathjax

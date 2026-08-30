@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-survival
+joblib
+matplotlib
+fastapi
+uvicorn[standard]
+requests
+pydantic

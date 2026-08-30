@@ -1,0 +1,8 @@
+venv/
+surv_en/
+__pycache__/
+*.pyc
+.git/
+.DS_Store
+*.ipynb
+.ipynb_checkpoints/
