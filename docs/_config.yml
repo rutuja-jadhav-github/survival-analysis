@@ -4,7 +4,7 @@ description: "Augmenting Kaplan–Meier Survival Analysis with Ensemble Methods 
 remote_theme: just-the-docs/just-the-docs
 
 url: "https://rutuja-jadhav-github.github.io"
-baseurl: "" 
+baseurl: "/survival-analysis" 
 
 author: "Rutuja Jadhav"
 
